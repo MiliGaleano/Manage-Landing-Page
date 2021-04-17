@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/Manage-Landing-Page/static/js/main.d778af7d.chunk.js",
+    "main.js.map": "/Manage-Landing-Page/static/js/main.d778af7d.chunk.js.map",
+    "runtime-main.js": "/Manage-Landing-Page/static/js/runtime-main.384f33ca.js",
+    "runtime-main.js.map": "/Manage-Landing-Page/static/js/runtime-main.384f33ca.js.map",
+    "static/css/2.fbb61624.chunk.css": "/Manage-Landing-Page/static/css/2.fbb61624.chunk.css",
+    "static/js/2.71421b6f.chunk.js": "/Manage-Landing-Page/static/js/2.71421b6f.chunk.js",
+    "static/js/2.71421b6f.chunk.js.map": "/Manage-Landing-Page/static/js/2.71421b6f.chunk.js.map",
+    "index.html": "/Manage-Landing-Page/index.html",
+    "static/css/2.fbb61624.chunk.css.map": "/Manage-Landing-Page/static/css/2.fbb61624.chunk.css.map",
+    "static/js/2.71421b6f.chunk.js.LICENSE.txt": "/Manage-Landing-Page/static/js/2.71421b6f.chunk.js.LICENSE.txt",
+    "static/media/avatar-ali.88f9155c.png": "/Manage-Landing-Page/static/media/avatar-ali.88f9155c.png",
+    "static/media/avatar-anisha.484e15bc.png": "/Manage-Landing-Page/static/media/avatar-anisha.484e15bc.png",
+    "static/media/avatar-richard.ace8e089.png": "/Manage-Landing-Page/static/media/avatar-richard.ace8e089.png",
+    "static/media/avatar-shanai.4bbe2f95.png": "/Manage-Landing-Page/static/media/avatar-shanai.4bbe2f95.png",
+    "static/media/bg-simplify-section-desktop2.32453079.svg": "/Manage-Landing-Page/static/media/bg-simplify-section-desktop2.32453079.svg",
+    "static/media/bg-simplify-section-mobile.a79c8471.svg": "/Manage-Landing-Page/static/media/bg-simplify-section-mobile.a79c8471.svg",
+    "static/media/bg-simplify-section-mobile2.c86283e3.svg": "/Manage-Landing-Page/static/media/bg-simplify-section-mobile2.c86283e3.svg",
+    "static/media/bg-tablet-pattern2.a6ec15d2.svg": "/Manage-Landing-Page/static/media/bg-tablet-pattern2.a6ec15d2.svg",
+    "static/media/icon-close.d5ba0dc5.svg": "/Manage-Landing-Page/static/media/icon-close.d5ba0dc5.svg",
+    "static/media/icon-facebook.1e9b3338.svg": "/Manage-Landing-Page/static/media/icon-facebook.1e9b3338.svg",
+    "static/media/icon-hamburger.8dcf47cc.svg": "/Manage-Landing-Page/static/media/icon-hamburger.8dcf47cc.svg",
+    "static/media/icon-instagram.54d3962e.svg": "/Manage-Landing-Page/static/media/icon-instagram.54d3962e.svg",
+    "static/media/icon-pinterest.45264b1d.svg": "/Manage-Landing-Page/static/media/icon-pinterest.45264b1d.svg",
+    "static/media/icon-twitter.01a8907d.svg": "/Manage-Landing-Page/static/media/icon-twitter.01a8907d.svg",
+    "static/media/icon-youtube.7d6960fb.svg": "/Manage-Landing-Page/static/media/icon-youtube.7d6960fb.svg",
+    "static/media/illustration-intro.cb9a8a95.svg": "/Manage-Landing-Page/static/media/illustration-intro.cb9a8a95.svg",
+    "static/media/logo.66a57610.svg": "/Manage-Landing-Page/static/media/logo.66a57610.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.384f33ca.js",
+    "static/css/2.fbb61624.chunk.css",
+    "static/js/2.71421b6f.chunk.js",
+    "static/js/main.d778af7d.chunk.js"
+  ]
+}
